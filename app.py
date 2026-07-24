@@ -447,7 +447,7 @@ st.markdown(
     """
     <div style='text-align: center; color: gray; font-size: 14px; padding: 10px;'>
         © 2026 Todos los derechos reservados. <br>
-        Desarrollado por <b>Ing. Wilton Torvisco</b>.
+        Desarrollado por <b>Wilton Torvisco</b>.
     </div>
     """, 
     unsafe_allow_html=True
