@@ -438,3 +438,17 @@ IGPC corporativo sube de forma consistente. Compara este número con el de "Situ
 cuantificar el retorno del programa de inversión en términos de preparación, no solo de cumplimiento.
 </div>
 """, unsafe_allow_html=True)
+
+# ==========================================
+# FOOTER / DERECHOS RESERVADOS
+# ==========================================
+st.markdown("---")  # Línea separadora
+st.markdown(
+    """
+    <div style='text-align: center; color: gray; font-size: 14px; padding: 10px;'>
+        © 2026 Todos los derechos reservados. <br>
+        Desarrollado por <b>Ing. Wilton Torvisco</b>.
+    </div>
+    """, 
+    unsafe_allow_html=True
+)
